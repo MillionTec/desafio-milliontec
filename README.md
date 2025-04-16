@@ -28,6 +28,7 @@ Criar uma aplicação full-stack para **cadastro e listagem de clientes**, com a
 ### 2. Backend (Node.js + PostgreSQL)
 
 - Criar uma API em **Node.js** com **TypeScript**
+- TypeORM
 - Utilizar **PostgreSQL** como banco de dados
 - Endpoints:
   - Login (com verificação simples de usuário/senha)
@@ -77,7 +78,6 @@ Criar uma aplicação full-stack para **cadastro e listagem de clientes**, com a
 ## 📦 Dicas
 
 - Você pode usar bibliotecas para geração de PDF como [`jspdf`](https://github.com/parallax/jsPDF) ou [`react-pdf`](https://github.com/wojtekmaj/react-pdf)
-- No backend, você pode usar ORM como [`Prisma`](https://www.prisma.io/) ou [`Sequelize`](https://sequelize.org/)
 
 ---
 
