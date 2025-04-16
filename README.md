@@ -1,4 +1,4 @@
-# desafio-milliontec# Desafio Técnico - Desenvolvedor React
+# Desafio Técnico - Desenvolvedor React
 
 ## Objetivo
 
